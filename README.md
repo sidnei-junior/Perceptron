@@ -1,2 +1,3 @@
 #Perceptron
+===============
 ##Repertório com código de uma pereptron simples para resolver a porta OR
