@@ -1,5 +1,5 @@
 <h1> Perceptron </h1>
-## Código com três exemplos
+##Código com três exemplos
 <ol>
   <li>Porta lógica OR</li>
   <li>Três entradas e uma saída</li>
